@@ -2,7 +2,7 @@
 ################################################################
 ##
 ##  File Name   : Program4.py
-##  Description : Accept two number and return minimum number
+##  Description : Accept number and return trur if number even otherwise false
 ##  Author      : Mayuri Bondge
 ##  Date        : 25/01/2026
 ##
@@ -11,15 +11,15 @@
 ################################################################
 ##
 ##  Function Name : Anonymous(Lambda)
-##  Input :         Accept two number
-##  Output :        Display minimum number
+##  Input :         Accept one number
+##  Output :        Display number is even or odd
 ##
 ################################################################
 Minimum=lambda No: True if No%2==0 else False
     
 def main():
     Ret=0
-    Value=int(input("Enter a Number:"))
+    Value=int(input("Enter a Number to check number is even or odd:"))
     Ret=Minimum(Value)
 
     if(Ret==True):
@@ -34,4 +34,5 @@ def main():
 ################################################################
 
 if __name__=="__main__":
+
     main()
