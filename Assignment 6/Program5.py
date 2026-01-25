@@ -15,12 +15,12 @@
 ##  Output :        Display number is even or odd
 ##
 ################################################################
-Minimum=lambda No: True if No%2==0 else False
+Even=lambda No: True if No%2==0 else False
     
 def main():
     Ret=0
     Value=int(input("Enter a Number to check number is even or odd:"))
-    Ret=Minimum(Value)
+    Ret=Even(Value)
 
     if(Ret==True):
         print("Number is even")
@@ -36,4 +36,5 @@ def main():
 if __name__=="__main__":
 
     main()
+
 
