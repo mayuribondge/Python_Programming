@@ -41,9 +41,6 @@ def main():
     value=int(input("Enter a numer to append the list"))
     Ret= ListPrime(value)
     print("Addion of prime number is:",Ret)
-
-
-   
     
 #------------------------------------------------------------------#
 #  Starting the execution of the program
