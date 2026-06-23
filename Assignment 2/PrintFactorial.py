@@ -1,7 +1,7 @@
 ################################################################
 ##
-##  File Name   : Program3.py
-##  Description : Print a facorial of numbers
+##  File Name   : PrintFactorial.py
+##  Description : Print a factorial of numbers
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
 ##
