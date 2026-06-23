@@ -1,6 +1,6 @@
 ################################################################
 ##
-##  File Name   : Program2.py
+##  File Name   : SunOfNaturalNumbers.py
 ##  Description : Print a sum of first N natural numbers
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
@@ -20,7 +20,7 @@ def NaturalNumbers(No):
         print(i)
      
 def main():
-    print("Enter a number to print a multiplication table")
+    print("Enter a number to display the sum of first N natural numbers")
     Value=int(input())
     NaturalNumbers(Value)
 
