@@ -1,7 +1,7 @@
 ################################################################
 ##
-##  File Name   : Program5.py
-##  Description : Print all odd number till that bumber
+##  File Name   : PrintOddNumbers.py
+##  Description : Print all odd number till that number
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
 ##
@@ -21,7 +21,7 @@ def OddNumbers(No):
             print(i)
      
 def main():
-    print("Enter a number to print even number till that number")
+    print("Enter a number to print odd number till that number")
     Value=int(input())
     OddNumbers(Value)
 
