@@ -1,6 +1,6 @@
 ################################################################
 ##
-##  File Name   : Program3.py
+##  File Name   : DisplaySquare.py
 ##  Description : Display the number of square
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
