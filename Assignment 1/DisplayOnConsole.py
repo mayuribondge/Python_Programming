@@ -1,6 +1,6 @@
 ################################################################
 ##
-##  File Name   : Program1.py
+##  File Name   : DisplayOnConsole.py
 ##  Description : Display the Jay Ganesh on the console
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
