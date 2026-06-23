@@ -1,6 +1,6 @@
 ################################################################
 ##
-##  File Name   : Program2.py
+##  File Name   : CheckGrater.py
 ##  Description : Prints the greater number
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
