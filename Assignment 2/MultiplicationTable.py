@@ -1,6 +1,6 @@
 ################################################################
 ##
-##  File Name   : Program1.py
+##  File Name   : MultiplicationTable.py
 ##  Description : Print a Multiplication of table
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
