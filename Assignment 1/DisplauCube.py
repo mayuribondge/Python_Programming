@@ -1,6 +1,6 @@
 ################################################################
 ##
-##  File Name   : Program4.py
+##  File Name   : DisplauCube.py
 ##  Description : Display the cube of number
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
