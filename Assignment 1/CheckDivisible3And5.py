@@ -1,7 +1,7 @@
 
 ################################################################
 ##
-##  File Name   : Program5.py
+##  File Name   : CheckDivisible3And5.py
 ##  Description : To check whether number is divisible by 3 and 5
 ##  Author      : Mayuri Bondge
 ##  Date        : 17/01/2026
